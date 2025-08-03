@@ -1,9 +1,9 @@
 {
   "pass":"aBiTrue",
   "numtabs": 6,
-  "numpostlead": [1,2],
+  "numpostlead": [2,4],
   "numpostauto": [1,4],
-  "mousescroll": [8,12],
+  "mousescroll": [10,15],
   "timeinads": [220,250],
   "proxy":"https://raw.githubusercontent.com/chaudaiduong1992/0208/refs/heads/main/ip0208",
   "webs":"https://raw.githubusercontent.com/chaudaiduong1992/0208/refs/heads/main/wb0208"
